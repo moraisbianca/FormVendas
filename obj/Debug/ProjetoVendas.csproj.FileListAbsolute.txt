@@ -1,0 +1,22 @@
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\ProjetoVendas\bin\Debug\ProjetoVendas.exe.config
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\ProjetoVendas\bin\Debug\ProjetoVendas.exe
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\ProjetoVendas\bin\Debug\ProjetoVendas.pdb
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\ProjetoVendas\obj\Debug\ProjetoVendas.csproj.AssemblyReference.cache
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\ProjetoVendas\obj\Debug\ProjetoVendas.csproj.SuggestedBindingRedirects.cache
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\ProjetoVendas\obj\Debug\ProjetoVendas.Vendas.resources
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\ProjetoVendas\obj\Debug\ProjetoVendas.Properties.Resources.resources
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\ProjetoVendas\obj\Debug\ProjetoVendas.csproj.GenerateResource.cache
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\ProjetoVendas\obj\Debug\ProjetoVendas.csproj.CoreCompileInputs.cache
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\ProjetoVendas\obj\Debug\ProjetoVendas.exe
+E:\Curso Técnico\2 ano\Desenv. Sist\Exercícios entregues no drive\ProjetoVendas\obj\Debug\ProjetoVendas.pdb
+D:\Desenvolvimento (2°ds)\ProjetoVendas (TERMINAR)\bin\Debug\ProjetoVendas.exe.config
+D:\Desenvolvimento (2°ds)\ProjetoVendas (TERMINAR)\bin\Debug\ProjetoVendas.exe
+D:\Desenvolvimento (2°ds)\ProjetoVendas (TERMINAR)\bin\Debug\ProjetoVendas.pdb
+D:\Desenvolvimento (2°ds)\ProjetoVendas (TERMINAR)\obj\Debug\ProjetoVendas.csproj.AssemblyReference.cache
+D:\Desenvolvimento (2°ds)\ProjetoVendas (TERMINAR)\obj\Debug\ProjetoVendas.csproj.SuggestedBindingRedirects.cache
+D:\Desenvolvimento (2°ds)\ProjetoVendas (TERMINAR)\obj\Debug\ProjetoVendas.Vendas.resources
+D:\Desenvolvimento (2°ds)\ProjetoVendas (TERMINAR)\obj\Debug\ProjetoVendas.Properties.Resources.resources
+D:\Desenvolvimento (2°ds)\ProjetoVendas (TERMINAR)\obj\Debug\ProjetoVendas.csproj.GenerateResource.cache
+D:\Desenvolvimento (2°ds)\ProjetoVendas (TERMINAR)\obj\Debug\ProjetoVendas.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento (2°ds)\ProjetoVendas (TERMINAR)\obj\Debug\ProjetoVendas.exe
+D:\Desenvolvimento (2°ds)\ProjetoVendas (TERMINAR)\obj\Debug\ProjetoVendas.pdb
